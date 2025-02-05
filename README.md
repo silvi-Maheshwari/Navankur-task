@@ -58,6 +58,8 @@ This project implements a shopping cart and purchase flow using React.js. The ap
 - **Login API:** `POST https://reqres.in/api/login`
 - **Webhook URL:** `https://webhook.site/` (for sending purchase data)
 
+## Deploy Link:- https://navankur-task.netlify.app/cart
+
 ## Folder Structure
 ```
 📂 shopping-cart-app
