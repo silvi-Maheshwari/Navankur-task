@@ -1,5 +1,7 @@
 # Shopping Cart and Purchase Flow
 
+## Deploy Link:- https://navankur-task.netlify.app
+
 ## Overview
 This project implements a shopping cart and purchase flow using React.js. The application allows users to log in, view product details, add items to the cart, and make purchases. It also integrates user authentication and sends relevant data to a server using a webhook.
 
@@ -77,7 +79,7 @@ This project implements a shopping cart and purchase flow using React.js. The ap
 
 ## Deployment
 The application can be deployed on **Netlify** or **Render**.
-## Deploy Link:- https://navankur-task.netlify.app/cart
+
 
 ## Future Improvements
 - Implement payment gateway integration.
